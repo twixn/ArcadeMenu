@@ -1,0 +1,107 @@
+<background_image>arcade_background.bmp</background_image>
+<background_musics>
+  <file>arcade_background.wav</file>
+</background_musics>
+<activate_keys>
+  <key>5</key>
+  <key>6</key>
+  <key>1</key>
+  <key>2</key>
+</activate_keys>
+<select_sound>arcade_select.wav</select_sound>
+<volume_up_image>volume_up.bmp</volume_up_image>
+<volume_down_image>volume_down.bmp</volume_down_image>
+<items>
+ <item>
+  <image>doom.bmp</image>
+  <command>~/Games/doomlegacy_1.46.3/doomlegacy -game doom</command>
+ </item>
+ <item>
+  <image>doom2.bmp</image>
+  <command>~/Games/doomlegacy_1.46.3/doomlegacy -game doom2</command>
+ </item>
+ <item>
+  <image>heretic.bmp</image>
+  <command>~/Games/doomlegacy_1.46.3/doomlegacy -game heretic</command>
+ </item>
+ <item>
+  <image>mslug.bmp</image>
+  <command>~/mame_script.sh mslug</command>
+ </item>
+ <item>
+  <image>mslug2.bmp</image>
+  <command>~/mame_script.sh mslug2</command>
+ </item>
+ <item>
+  <image>mslug3.bmp</image>
+  <command>~/mame_script.sh mslug3</command>
+ </item>
+ <item>
+  <image>mslug4.bmp</image>
+  <command>~/mame_script.sh mslug4</command>
+ </item>
+ <item>
+  <image>mslug5.bmp</image>
+  <command>~/mame_script.sh mslug5</command>
+ </item>
+ <item>
+  <image>mslugx.bmp</image>
+  <command>~/mame_script.sh mslugx</command>
+ </item>
+ <item>
+  <image>galaga.bmp</image>
+  <command>~/mame_script.sh galaga</command>
+ </item>
+ <item>
+  <image>dkong.bmp</image>
+  <command>~/mame_script.sh dkong</command>
+ </item>
+ <item>
+  <image>space_inv.bmp</image>
+  <command>~/mame_script.sh invadpt2</command>
+ </item>
+ <item>
+  <image>moonpatrol.bmp</image>
+  <command>~/mame_script.sh mpatrol</command>
+ </item>
+ <item>
+  <image>outrun.bmp</image>
+  <command>~/mame_script.sh outrun</command>
+ </item>
+ <item>
+  <image>mk.bmp</image>
+  <command>~/mame_script.sh mk</command>
+ </item>
+ <item>
+  <image>hangon.bmp</image>
+  <command>~/mame_script.sh hangon</command>
+ </item>
+ <item>
+  <image>tmnt.bmp</image>
+  <command>~/mame_script.sh tmnt</command>
+ </item>
+ <item>
+  <image>simpsons.bmp</image>
+  <command>~/mame_script.sh simpsons</command>
+ </item>
+ <item>
+  <image>raiden.bmp</image>
+  <command>~/mame_script.sh raiden</command>
+ </item>
+ <item>
+  <image>ridgeracer.bmp</image>
+  <command>~/mame_script.sh ridgerac</command>
+ </item>
+ <item>
+  <image>1942.bmp</image>
+  <command>~/mame_script.sh 1942</command>
+ </item>
+ <item>
+  <image>joustwr.bmp</image>
+  <command>~/mame_script.sh joustwr</command>
+ </item>
+ <item>
+  <image>pacman.bmp</image>
+  <command>~/mame_script.sh pacman</command>
+ </item>
+</items>
